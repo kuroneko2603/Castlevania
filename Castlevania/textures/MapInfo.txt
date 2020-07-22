@@ -1,0 +1,21 @@
+6
+textures//Tilemap01.txt
+textures//Tile_Map1.png
+5 	6
+textures//Tilemap02.txt
+textures//Tile_Map2.png
+3 	7
+textures//tilemap03.txt
+textures//Tile_Map3.png
+3	7
+textures//tilemap04.txt
+textures//Tile_Map4.png
+4	8
+textures//tilemap05.txt
+textures//Tile_Map5.png
+4	6
+textures//Tilemap06.txt
+textures//Tile_Map6.png
+4	7
+
+
